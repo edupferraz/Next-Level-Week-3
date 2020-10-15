@@ -15,7 +15,7 @@ aside.app-sidebar {
   }
   
   aside.app-sidebar footer a,
-  aside.app-sidebar footer button {
+  aside.app-sidebar footer Link {
     width: 48px;
     height: 48px;
   
@@ -34,6 +34,6 @@ aside.app-sidebar {
   }
   
   aside.app-sidebar footer a:hover,
-  aside.app-sidebar footer button:hover {
+  aside.app-sidebar footer Link:hover {
     background: #17D6EB;
   }
