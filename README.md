@@ -36,9 +36,9 @@
 <h2 id="layout"> :art: Layout </h2>
 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="./assets/web-2.png" width="1000px">
-
   <img alt="Happy Web" title="Happy Web" src="./assets/web-1.png" width="1000px">
+
+  <img alt="Happy Web" title="Happy Web" src="./assets/web-2.png" width="1000px">
 </p>
 
 ---
