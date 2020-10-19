@@ -127,7 +127,7 @@ function Orphanage() {
 
                 ) : (
 
-                  <div className="open-on-weekends dont-open">
+                  <div className="dont-open">
                   <FiInfo size={32} color="#FF6690" />
                   Não atendemos <br />
                   fim de semana
