@@ -18,9 +18,9 @@
 <ul>
   <li>Dia 1: Acelerando sua evolução 12/10 - ✔️</li>
   <li>Dia 2: Olhando para as oportunidades 13/10 - ✔️</li>
-  <li>Dia 3: A escolha da Stack 14/10 - :x:</li>
-  <li>Dia 4: Até 2 anos em 2 meses 15/10 - :x:</li>
-  <li>Dia 5: Milha extra 16/10 - :x:</li>
+  <li>Dia 3: A escolha da Stack 14/10 - ✔️</li>
+  <li>Dia 4: Até 2 anos em 2 meses 15/10 - ✔️</li>
+  <li>Dia 5: Milha extra 16/10 - ✔️</li>
 </ul>
 
 ---
